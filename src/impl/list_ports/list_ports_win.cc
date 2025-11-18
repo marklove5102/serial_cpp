@@ -10,6 +10,7 @@
 #include "serial_cpp/serial.h"
 #include <tchar.h>
 #include <windows.h>
+#include <winioctl.h>
 #include <setupapi.h>
 #include <initguid.h>
 #include <devguid.h>
